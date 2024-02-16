@@ -29,7 +29,7 @@ Elasticsearch module for [Nest](https://github.com/nestjs/nest) based on the off
 ## Installation
 
 ```bash
-$ npm i --save @nestjs/elasticsearch @elastic/elasticsearch
+$ npm i --save @nestjs/elasticsearch
 ```
 
 ## Usage
